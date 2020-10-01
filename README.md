@@ -1,3 +1,4 @@
+# Amazing project
 # Movie-Trailer-Website
 
 The server-side code is written in Python and the data is then served to a web page using
